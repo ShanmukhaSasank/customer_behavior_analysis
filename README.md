@@ -1,4 +1,5 @@
 🛒 Customer Shopping Behavior Analysis
+
 📌 Overview
 - This project analyzes customer shopping behavior using a complete data analytics workflow. The objective is to extract actionable business insights from raw transactional data by combining Python based analysis, SQL querying, and interactive dashboards.
 - The project demonstrates end to end data analytics skills, covering data preprocessing, exploratory analysis, database querying, visualization, and stakeholder ready reporting.
@@ -17,10 +18,14 @@ customer_shopping_behavior.csv
 🧰 Tools and Technologies
 
 🐍 **Python**: Data loading, cleaning, and EDA
-Libraries: pandas, numpy, matplotlib, seaborn
-🗄️ **PostgreSQL**: SQL based analysis and querying
-📊 **Power BI**: Interactive dashboard development
-📑 **Gamma**: Report and presentation creation
+Libraries: pandas, numpy, matplotlib, seaborn.
+
+🗄️ **PostgreSQL**: SQL based analysis and querying.
+
+📊 **Power BI**: Interactive dashboard development.
+
+📑 **Gamma**: Report and presentation creation.
+
 📓 **Jupyter Notebook**: Analysis documentation
 
 🔄 Project Workflow
