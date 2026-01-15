@@ -15,6 +15,7 @@ Dataset highlights:
 customer_shopping_behavior.csv
 
 🧰 Tools and Technologies
+
 🐍 **Python**: Data loading, cleaning, and EDA
 Libraries: pandas, numpy, matplotlib, seaborn
 🗄️ **PostgreSQL**: SQL based analysis and querying
@@ -23,6 +24,7 @@ Libraries: pandas, numpy, matplotlib, seaborn
 📓 **Jupyter Notebook**: Analysis documentation
 
 🔄 Project Workflow
+
 1️⃣ Data Loading
 - Imported the dataset using pandas
 - Reviewed structure, data types, and missing values
@@ -95,6 +97,7 @@ customer_behavior_dashboard.sql
 - Load the report and refresh data
 
 📁 Project Structure
+
 ├── customer_behavior_analysis.ipynb
 
 ├── customer_behavior_dashboard.sql
