@@ -26,14 +26,17 @@ Libraries: pandas, numpy, matplotlib, seaborn
 1️⃣ Data Loading
 - Imported the dataset using pandas
 - Reviewed structure, data types, and missing values
+
 2️⃣ Exploratory Data Analysis (EDA)
 - Analyzed data distributions and trends
 - Visualized customer behavior patterns
 - Identified key relationships affecting spending behavior
+
 3️⃣ Data Cleaning
 - Handled missing and inconsistent values
 - Corrected data types
 - Prepared a clean dataset for SQL and dashboard usage
+
 4️⃣ SQL Analysis (PostgreSQL)
 - Loaded cleaned data into PostgreSQL
 - Wrote SQL queries to:
@@ -75,13 +78,15 @@ Customer-Shopping-Behavior-Analysis.pptx
 - Clone the repository
 - Install required libraries:
 - pip install pandas numpy matplotlib seaborn
+
 Open and run:
 customer_behavior_analysis.ipynb
 
 🗄️ SQL Analysis
 - Set up a PostgreSQL database
 - Load the cleaned dataset
-- Execute queries from:
+
+Execute queries from:
 customer_behavior_dashboard.sql
 
 📊 Power BI Dashboard
@@ -91,8 +96,13 @@ customer_behavior_dashboard.sql
 
 📁 Project Structure
 ├── customer_behavior_analysis.ipynb
+
 ├── customer_behavior_dashboard.sql
+
 ├── customer_shopping_behavior.csv
+
 ├── Customer Shopping Behavior Analysis.pdf
+
 ├── Customer-Shopping-Behavior-Analysis.pptx
+
 └── README.md
